@@ -12,19 +12,6 @@ body {
     color: #110e0d;
     font-weight: 300; 
 }
-.project-1 {
-    text-align: center;
-}
-.project-2 {
-    text-align: center;
-}
-.project-3 {
-    text-align: center;
-}
-.name {
-    text-align: right;
-    text-transform: uppercase;
-}
 hr {
     height: 5px;
     background-color: rgb(19, 241, 241);
